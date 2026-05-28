@@ -1,4 +1,4 @@
-export  const productos = [
+export const productos = [
 {
     id:1,
     img: "https://http2.mlstatic.com/D_NQ_NP_636639-MLA96741699971_102025-B.jpg",
@@ -12,7 +12,7 @@ export  const productos = [
     img: "https://http2.mlstatic.com/D_NQ_NP_682285-MLA99371068290_112025-O.webp",
     nombre: "Microprocesador Pc AMD Ryzen 5 3400G 4.2GHz 4 núcleos YD3400C5FHBOX Generación DDR4 Socket Am4 Graficos Integrados",
     descripcion: "Características del producto Tipos de memoria RAM soportadas: DDR4,Frecuencia máxima de reloj: 4.2 GHzCantidad de núcleos de CPU: 4.Zócalos compatibles: AM4Características generalesMarcaAMDLíneaRyzen 5Modelo3400GModelo alfanuméricoYD3400C5FHBOXMemoriaTipos de memoria RAM soportadasDDR4Tamaño máximo de memoria RAM soportada64 GBCaché4 MBFrecuenciaFrecuencia mínima de reloj3,7 GHzFrecuencia máxima de reloj4,2 GHzOtros.rAño de lanzamientor2019rOtrosrLitografíar12 nmrTipo de refrigeraciónrAirerMarca de GPUrAMDrLínea de GPUradeonModelo de GPUVega 11Cantidad de núcleos de GPU11Frecuencia de GPU1.400 GHzVersión de PCI ExpressPCIe 3.0Velocidad máxima de la memoria RAM2.933 MT/sTemperatura máxima95 °CCon memoria gráfica ECCSíCantidad de canales de memoria2Tamaño de caché L10,38 MBTamaño de caché L22 MBTamaño de caché L34 MB",
-    precio: 158.999,
+    precio: 158999,
     stock: 3 
 },
 {
@@ -35,7 +35,7 @@ export  const productos = [
     id:5,
     img: "",
     nombre: "Controlador De Volumen Para Pc Usb Rgb Antaknob Programable",
-    descripcion: "",
+    descripcion: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam debitis consequuntur unde, dignissimos consequatur nesciunt provident. Eos nulla fuga minima fugiat, nesciunt eius corrupti corporis ipsum ad, aliquam, recusandae distinctio.",
     precio: 39777,
     stock: 5
 },
@@ -43,7 +43,7 @@ export  const productos = [
     id:6,
     img: "",
     nombre: "",
-    descripcion: "",
+    descripcion: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam debitis consequuntur unde, dignissimos consequatur nesciunt provident. Eos nulla fuga minima fugiat, nesciunt eius corrupti corporis ipsum ad, aliquam, recusandae distinctio.",
     precio: "",
     stock: 2
 },
