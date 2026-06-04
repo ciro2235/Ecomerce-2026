@@ -14,5 +14,6 @@ productos.forEach(producto => {
 })
 
 window.verDetalle = (id) => {
-    window.location.href = `detalle_producto.html?id=${id}`;
+    window.location.href = `./pages/detalle_producto.html?id=${id}`;
 }
+

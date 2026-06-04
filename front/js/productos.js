@@ -33,7 +33,7 @@ export const productos = [
 },
 {
     id:5,
-    img: "",
+    img: "https://http2.mlstatic.com/D_NQ_NP_899824-MLA110081976005_042026-OO.jpg",
     nombre: "Controlador De Volumen Para Pc Usb Rgb Antaknob Programable",
     descripcion: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam debitis consequuntur unde, dignissimos consequatur nesciunt provident. Eos nulla fuga minima fugiat, nesciunt eius corrupti corporis ipsum ad, aliquam, recusandae distinctio.",
     precio: 39777,
@@ -41,10 +41,10 @@ export const productos = [
 },
 {
     id:6,
-    img: "",
-    nombre: "",
+    img: "https://http2.mlstatic.com/D_NQ_NP_818629-MLA107635610555_022026-OO.jpg",
+    nombre: "Gamepad Inal. C/ Botones Traseros Para Ps4 + Auricular Mini",
     descripcion: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam debitis consequuntur unde, dignissimos consequatur nesciunt provident. Eos nulla fuga minima fugiat, nesciunt eius corrupti corporis ipsum ad, aliquam, recusandae distinctio.",
-    precio: "",
+    precio: "2235",
     stock: 2
 },
 ]

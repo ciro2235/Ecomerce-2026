@@ -66,3 +66,35 @@ nav {
     color: #000;
     margin-bottom: 15px;
 }
+.detail-container{
+    max-width: 1200px;
+    margin: 30px;
+    padding: 30px;
+    display: flex;
+    gap: 40px;
+    border-radius: 8px;
+}
+.detail-img{
+    width: 100%;
+    max-width: 500px;
+    height: 500px;
+    display: block;
+    margin: auto;
+}
+.detail-info{
+    flex: 1;
+}
+.detail-h1{
+ 
+}
+.detail-h2{
+    font-size: 42px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+.detail-p{
+    max-width: 1200px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 8px;
+}
