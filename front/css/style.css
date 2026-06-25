@@ -85,7 +85,9 @@ nav {
     flex: 1;
 }
 .detail-h1{
- 
+    font-size: 42px;
+    font-weight: bold;
+    margin: 20px 0;
 }
 .detail-h2{
     font-size: 42px;
